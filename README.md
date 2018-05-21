@@ -2,6 +2,7 @@
 Final project for BerkeleyX EE40LX Electronic Interfaces
 
 [Video of display and sound effects](https://www.youtube.com/watch?v=8A6rcPg1f8o)
+
 [Video of robot movement](https://www.youtube.com/watch?v=O2uhIjSmHSg)
 
 Final project for BerkeleyX EE40LX (2015-04)
