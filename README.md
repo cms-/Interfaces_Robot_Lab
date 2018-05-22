@@ -1,6 +1,12 @@
 # Interfaces_Robot_Lab
 Final project for BerkeleyX EE40LX Electronic Interfaces (2015-04)
 
+[Part list and board interconnect diagram](https://github.com/cms-/Interfaces_Robot_Lab/blob/master/007.jpg)
+
+[Robot program pseudocode, page 1](https://github.com/cms-/Interfaces_Robot_Lab/blob/master/008.jpg)
+
+[Robot program pseudocode, page 2](https://github.com/cms-/Interfaces_Robot_Lab/blob/master/009.jpg)
+
 [Video of display and sound effects](https://www.youtube.com/watch?v=8A6rcPg1f8o)
 
 [Video of robot movement](https://www.youtube.com/watch?v=O2uhIjSmHSg)
